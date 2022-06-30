@@ -1,3 +1,3 @@
 #An analysis of kickstarter Project
 ##Overview of Project:
-Louise, who is an upcoming playwright
+Louise, an upcoming playwright,who wants to start a crowdfunding campaign
